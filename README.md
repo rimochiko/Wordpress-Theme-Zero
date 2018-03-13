@@ -17,21 +17,21 @@
 
 ## 预览图
 <a><img class="show" src="http://wx4.sinaimg.cn/large/0069luTRgy1fi9788h7ihj30z20il75k.jpg" alt="homepage" /></a></br>  
-<em>首页</em>
+<em>首页</em></br>
 <a><img class="show" src="http://wx2.sinaimg.cn/large/0069luTRgy1fi978arerzj30z50inab5.jpg" alt="article" /></a></br>  
-<em>文章显示模板</em>
+<em>文章显示模板</em></br>
 <a><img class="show" src="http://wx3.sinaimg.cn/large/0069luTRgy1fi978db3pbj30z70ingnp.jpg" alt="photo" /></a></br>  
-<em>图片显示模板</em>
+<em>图片显示模板</em></br>
 <a><img class="show" src="http://wx3.sinaimg.cn/large/0069luTRgy1fi978gl7abj30z50ikwfr.jpg" alt="mix" /></a></br>  
-<em>图文显示模板</em>
+<em>图文显示模板</em></br>
 <a><img class="show" src="http://wx4.sinaimg.cn/large/0069luTRgy1fi978jq10hj30z70ikjsh.jpg" alt="single" /></a></br>  
-<em>文章内页1</em>
+<em>文章内页1</em></br>
 <a><img class="show" src="http://wx2.sinaimg.cn/large/0069luTRgy1fi978o3bzhj30z40gsgly.jpg" alt="single2" /></a></br>  
-<em>文章内页2</em>
+<em>文章内页2</em></br>
 <a><img class="show" src="http://wx3.sinaimg.cn/large/0069luTRgy1fi978s5p5zj30z90in0u6.jpg" alt="preview" /></a></br>  
-<em>图片预览</em>
+<em>图片预览</em></br>
 <a><img class="show" src="http://wx3.sinaimg.cn/mw1024/0069luTRgy1fi978y8js6j30ku112n03.jpg" alt="mobile" /></a></br>
-<em>移动端预览</em>
+<em>移动端预览</em></br>
 <a><img class="show" src="http://wx3.sinaimg.cn/large/0069luTRgy1fi978uxpnnj30za0ik3zd.jpg" alt="back" /></a>  
 <em>后台部分设置</em>
 
